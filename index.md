@@ -11,11 +11,11 @@ permalink: /
 LISTEN本体の機能のほか、LISTENと一緒によく使う外部サービス(収録・編集のソフト、配信先のサービスなど)も扱います。
 
 {: .warning }
-これは個人が作成した**非公式**のメモです。株式会社OND とは関係ありません。
-LISTENの仕様はよく変わります。各記事の「確認日」と「実機で確認したか」を見て、正確な情報は [LISTENの公式ドキュメント](https://listen.style/document/introduction) で確認してください。
+これは個人が作成した**非公式**のメモです。{{ site.data.kb.owner_org }} とは関係ありません。
+{{ site.data.kb.subject }}の仕様はよく変わります。各記事の「確認日」と「実機で確認したか」を見て、正確な情報は [{{ site.data.kb.support_name }}]({{ site.data.kb.support_url }}) で確認してください。
 
 {: .note }
-外部サービスは**LISTENの公式機能ではありません**。紹介するだけで、推奨や保証はしません。
+外部サービスは**{{ site.data.kb.subject }}の公式機能ではありません**。紹介するだけで、推奨や保証はしません。
 
 ## 記事一覧
 
