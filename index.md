@@ -23,6 +23,7 @@ LISTEN本体の機能のほか、LISTENと一緒によく使う外部サービ�
 
 | 記事 | 内容 |
 |---|---|
+| [ライブ配信のやり方(LISTENライブ)](docs/01-live-stream.md) | LISTENライブでOBSから配信し、YouTubeライブにも同時配信する手順 |
 
 <!-- toc:end -->
 

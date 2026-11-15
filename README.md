@@ -54,6 +54,7 @@ AIチャットに次のように頼みます。
 
 | ファイル | 内容 |
 |---|---|
+| `docs/01-live-stream.md` | LISTENライブでOBSから配信し、YouTubeライブにも同時配信する手順 |
 
 <!-- toc:end -->
 
