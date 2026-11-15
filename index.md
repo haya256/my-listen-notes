@@ -12,7 +12,7 @@ LISTEN本体の機能のほか、LISTENと一緒によく使う外部サービ�
 
 {: .warning }
 これは個人が作成した**非公式**のメモです。株式会社OND とは関係ありません。
-LISTENの仕様はよく変わります。各記事の「確認日」と「実機で確認したか」を見て、正確な情報は [LISTENの公式ドキュメント](https://listen.style/document/about) で確認してください。
+LISTENの仕様はよく変わります。各記事の「確認日」と「実機で確認したか」を見て、正確な情報は [LISTENの公式ドキュメント](https://listen.style/document/introduction) で確認してください。
 
 {: .note }
 外部サービスは**LISTENの公式機能ではありません**。紹介するだけで、推奨や保証はしません。
