@@ -15,11 +15,25 @@
 
 ## 使い方(人間向け)
 
-AIチャットに次のように頼みます。
+<!-- kb:ask:start -->
+
+ウェブのページを読める AI チャットに、サイトの URL と質問を渡すだけで、記事をもとに答えてもらえます。
+
+> 次のページをもとに教えて。(聞きたいこと)
+> https://haya256.github.io/my-listen-notes/
+
+- ページ名(「ホーム | my-listen-notes」など)だけを貼っても、AI には伝わりません。**URL を必ず書きます**
+- AI が記事を読みちがえることもあります。大事なことは、答えに出てきた記事を開いて確かめてください
+
+### もっとくわしく調べたいとき
+
+Claude Code など、リポジトリを読める道具を使うなら、次のように頼むと、すべての記事を検索して答えてもらえます(AI は下の「AIへの指示」に従います)。
 
 > このリポジトリをクローンして、README の「AIへの指示」に従って答えてください。
 > https://github.com/haya256/my-listen-notes
 > 質問:(聞きたいこと)
+
+<!-- kb:ask:end -->
 
 ---
 
@@ -71,7 +85,7 @@ AIチャットに次のように頼みます。
 |---|---|
 | `python3 notes.py status` | 記事の一覧を、`verified` と `checked` 付きで表示する(`--todo` で未確認の記事だけ、`--thirdparty` で外部サービスの記事だけ) |
 | `python3 notes.py check` | 記事の書き方、自動で作る部分、共通の部分が手で直されていないかを検査する |
-| `python3 notes.py sync` | README の決まった部分・目次、`index.md` の記事一覧、`_config.yml` を作り直す |
+| `python3 notes.py sync` | README の決まった部分・目次、`index.md` の記事一覧と「AIに質問する使い方」、`_config.yml` を作り直す |
 | `python3 notes.py new SLUG タイトル [説明]` | テンプレートから新しい記事を作り、目次にも追加する |
 | `python3 notes.py verify ファイル 値` | 記事の `verified` を変えて、`checked` を今日の日付にする |
 | `python3 notes.py update` | テンプレートから共通の部分(`notes.py` など)の最新版を取りこむ |
