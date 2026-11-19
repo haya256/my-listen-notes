@@ -2,10 +2,10 @@
   "_説明": "notes.py update が書く。手で直さない。取りこんだテンプレートの版と、共通の部分の中身(sha256)の記録",
   "template": "haya256/my-notes-template",
   "source": "haya256/my-notes-template",
-  "commit": "ae0a2c38d1c4ee8ede802587eb0c5cb2e4085447",
+  "commit": "6fa1fb40637be87414c1df3a4055609c84d42c1a",
   "updated": "2026-11-19",
   "files": {
-    "notes.py": "eac013fe5253031c40cea63b0fb65b906aab27803e5d080713f756140e0f88c7",
+    "notes.py": "53030ac59d047a20a4f7ab2e58eb9306d60a27bcc03603d3ce3f1f00bc949ed2",
     "KB_GUIDE.md": "3031920284be908ee99d16cd84cccede7dd7526bc6f56238b9ec8f4389317fdd",
     "kb-engine.json": "34d900588d49f8522daae77c6048693de684f48883da945b2a70aad733079d8a",
     "docs/_template.md": "aa6cd173a2069ac11348e05cab2a8553b95ae3a067b7705edd62a2b2bc3b7842",
