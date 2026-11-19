@@ -8,5 +8,6 @@
   "github": "haya256/my-listen-notes",
   "author": "haya256",
   "template_repo": "haya256/my-notes-template",
-  "is_template": false
+  "is_template": false,
+  "ask_example": "LISTENで限定公開のポッドキャストを作るには？"
 }
