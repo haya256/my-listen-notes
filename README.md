@@ -87,6 +87,7 @@ claude
 | `docs/03-private-podcast.md` | 番組の公開範囲(公開・フォロワー限定・限定公開・非公開)の違いと設定のしかた、エピソードと文字起こしの公開範囲 |
 | `docs/04-external-podcast.md` | 外部サービスで配信している番組をRSSでLISTENに登録し、オーナー認証して使う方法 |
 | `docs/05-hidden-audio.md` | 下書き・予約・フォロワー限定・有料・限定公開・非公開・掲載停止・rooomなど、広く公開しない音声の違いと使い分け |
+| `docs/06-podcast-url.md` | 番組の「URL用の名前」の変え方と、変えたときに旧URL・RSS・エピソードのURLがどうなるか(リダイレクトされない) |
 
 <!-- toc:end -->
 
